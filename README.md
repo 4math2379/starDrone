@@ -3,8 +3,9 @@ Homemade Drone [Tinkering inside]
 
 03 September 2015
 Project is on ,
-<img src = https://pbs.twimg.com/media/CN_dg8UWgAAKCNN.jpg></img>
+<img style ="text-align:center;" src = https://pbs.twimg.com/media/CN_dg8UWgAAKCNN.jpg></img>
 
 
 
-Readme is on writting.
+Using Open source hardware ( Arduino, Rasperry Pi and Particle) in order to make a Drone with some special features. To configure them i will use johnny-Five.js,Cylon.js and Spark.io.
+
