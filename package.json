@@ -1,0 +1,27 @@
+{
+  "name": "4math",
+  "version": "1.0.0",
+  "description": "StarDrone repo",
+  "main": "star.js",
+  "dependencies": {
+    "cylon": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4math2379/starDrone.git"
+  },
+  "keywords": [
+    "Drone",
+    "OS"
+  ],
+  "author": "Sinien Rahma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4math2379/starDrone/issues"
+  },
+  "homepage": "https://github.com/4math2379/starDrone#readme"
+}
