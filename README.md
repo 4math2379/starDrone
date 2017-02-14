@@ -12,11 +12,12 @@ Project is on ,
 Major Update
 </h1>
 
-StarDrone Project has been changed, sonce 2 years i'm tinkering and testing many open source Hardware.
+StarDrone Project has been changed, since 2 years i'm tinkering and testing many open source Hardware.
+(Particle and Adafruit stuff)
 
 It's a Dream project , i really don't know where i m going.
 
 
-
+<footer>
 Using Open source hardware ( Arduino, Rasperry Pi and Particle) in order to make a Drone with some special features. To configure them i will use johnny-Five.js,Cylon.js and Spark.io.
-
+</footer>
